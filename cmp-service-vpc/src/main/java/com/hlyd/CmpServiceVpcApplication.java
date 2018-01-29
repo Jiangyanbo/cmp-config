@@ -10,7 +10,5 @@ public class CmpServiceVpcApplication {
 		SpringApplication.run(CmpServiceVpcApplication.class, args);
 
 
-
-
 	}
 }
