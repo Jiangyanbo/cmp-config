@@ -8,5 +8,9 @@ public class CmpServiceVpcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CmpServiceVpcApplication.class, args);
+
+
+
+
 	}
 }
